@@ -4,6 +4,7 @@
   "description": "Repo For Doing Unit Testing IN Node",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "repository": {
